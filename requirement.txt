@@ -1,0 +1,4 @@
+Openai
+langchain
+python-dotenv
+tiktokens
